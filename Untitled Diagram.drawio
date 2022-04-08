@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-08T23:28:52.312Z" agent="5.0 (Windows)" etag="f7BbljpMdRi5PotbMsKX" version="17.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-08T23:29:51.146Z" agent="5.0 (Windows)" etag="CFZ06VHYkYsZ37fTBR9X" version="17.4.0" type="github">
   <diagram id="H88vbu2F5iCE0-_oEWzY" name="Page-1">
     <mxGraphModel dx="2424" dy="2037" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -62,7 +62,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xVnecakKS6y9IhjQjkrB-1" value="Products search" style="shape=folder;fontStyle=1;tabWidth=70;tabHeight=10;tabPosition=left;html=1;boundedLbl=1;" parent="OjAhgf_gLrIJjrnwMmez-1" vertex="1">
-          <mxGeometry x="200" y="40" width="150" height="80" as="geometry" />
+          <mxGeometry x="80" y="60" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="xVnecakKS6y9IhjQjkrB-5" value="Product pages" style="shape=folder;fontStyle=1;tabWidth=70;tabHeight=10;tabPosition=left;html=1;boundedLbl=1;" parent="OjAhgf_gLrIJjrnwMmez-1" vertex="1">
           <mxGeometry x="450" y="50" width="150" height="80" as="geometry" />
@@ -73,11 +73,12 @@
         <mxCell id="xVnecakKS6y9IhjQjkrB-14" value="Store UI" style="shape=folder;fontStyle=1;tabWidth=70;tabHeight=10;tabPosition=left;html=1;boundedLbl=1;" parent="OjAhgf_gLrIJjrnwMmez-1" vertex="1">
           <mxGeometry x="450" y="230" width="150" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="xVnecakKS6y9IhjQjkrB-15" value="&lt;span style=&quot;background-color: transparent&quot;&gt;&amp;lt;&amp;lt;merge&amp;gt;&lt;/span&gt;" style="endArrow=open;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0;entryDx=0;entryDy=45;entryPerimeter=0;" parent="OjAhgf_gLrIJjrnwMmez-1" source="xVnecakKS6y9IhjQjkrB-1" target="xVnecakKS6y9IhjQjkrB-14" edge="1">
+        <mxCell id="xVnecakKS6y9IhjQjkrB-15" value="&lt;span style=&quot;background-color: transparent&quot;&gt;&amp;lt;&amp;lt;merge&amp;gt;&lt;/span&gt;" style="endArrow=open;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;exitX=0;exitY=0;exitDx=150;exitDy=45;exitPerimeter=0;entryX=0;entryY=0;entryDx=0;entryDy=45;entryPerimeter=0;" parent="OjAhgf_gLrIJjrnwMmez-1" source="xVnecakKS6y9IhjQjkrB-1" target="xVnecakKS6y9IhjQjkrB-14" edge="1">
           <mxGeometry x="0.52" y="5" width="160" relative="1" as="geometry">
             <mxPoint x="460" y="260" as="sourcePoint" />
             <mxPoint x="620" y="260" as="targetPoint" />
             <Array as="points">
+              <mxPoint x="275" y="105" />
               <mxPoint x="275" y="275" />
             </Array>
             <mxPoint as="offset" />
